@@ -1,7 +1,4 @@
 How to Run the Code:
-
-Un zip source code files then open this (python + react) whole folder in VS code then do the following:
-
 ........................................................................
 Backend Setup:
 
@@ -55,5 +52,6 @@ Frontend Setup:
 		Serve the build files using a static server like Nginx.
 
 .........................................................................................
+
 
 To test APIs refer to : "testing of IS project components.txt"
